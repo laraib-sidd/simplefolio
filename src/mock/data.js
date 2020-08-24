@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a Web Developer with enthusiasm and focus on Backend Developement and Scripting. I also work with python to develop effective web scrapers and crawlers. I have also worked on building efficeint Machine Learning Models.',
+    'I am a Web Developer with enthusiasm and focus on Backend Development and Scripting. I also work with python to develop effective web scrapers and crawlers. I have also worked on building efficeint Machine Learning Models.',
   paragraphTwo:
     'I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.',
   paragraphThree: 'Feel free to contact me via email at any time.',
