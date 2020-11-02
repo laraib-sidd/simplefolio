@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Laraib Siddiqui',
-  subtitle: 'I like to put your ideas in action',
+  subtitle: 'I like to put your ideas into reality.',
   cta: 'Know more',
 };
 
@@ -21,9 +21,9 @@ export const aboutData = {
   paragraphOne:
     'I am a Web Developer with enthusiasm and focus on Backend Development and Scripting. I also work with python to develop effective web scrapers and crawlers. I have also worked on building efficient Machine Learning Models.',
   paragraphTwo:
-    'I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.',
+    'I am passionate about building scalable software, creating effective solutions, and learning daily to grow professionally in the IT field.',
   paragraphThree: 'Feel free to contact me via email at any time.',
-  resume: 'https://drive.google.com/file/d/1vGpQt1qynRgyjW8dJMsmhQFBHein8vt-/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1gyXrQarYNOV5ZNjUR3L7y8Wd8QUTX9T1/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
