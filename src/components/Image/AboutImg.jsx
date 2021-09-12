@@ -12,8 +12,9 @@ const AboutImg = ({ filename, alt }) => (
             node {
               relativePath
               name
-              childImageSharp {fluid(maxWidth: 1366) {
-                  ...GatsbyImageSharpFixed
+              childImageSharp {
+                fluid(maxWidth: 1366) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
