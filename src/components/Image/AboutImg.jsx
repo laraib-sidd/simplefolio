@@ -33,3 +33,4 @@ AboutImg.propTypes = {
   filename: PropTypes.string,
   alt: PropTypes.string,
 };
+export default AboutImg;
